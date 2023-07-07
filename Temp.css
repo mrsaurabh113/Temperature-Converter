@@ -1,0 +1,38 @@
+body{
+    padding:50px 100px;
+    background-color: darkgreen;
+    color: yellow;
+    font-size: 32px;
+}
+h1{
+    text-align:center;
+}
+#container{
+    text-align: center;
+    background-color:rgb(16, 252, 87);
+    border: 5px solid black;
+    margin-left: 20%;
+    padding:100px;
+    width: 600px;
+    font-size: 50px;
+    font-weight: bold;
+
+}
+.input-div{
+    display: inline-block;
+
+
+}
+.inp{
+    border: 3px solid black;
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    width: 200px;
+    text-align: center;
+}
+label{
+    font-size: 22px;
+    color: black;
+}
